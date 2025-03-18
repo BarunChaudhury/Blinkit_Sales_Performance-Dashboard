@@ -41,17 +41,13 @@ The **Blinkit Sales Performance Dashboard** is built using **Power BI** to analy
 
 ## 📂 Files Included:
 
-**📈 Coffee_Sales_Dashboard.pbix** – Power BI file containing the dashboard with all visualizations.
+**📈 Blinkit Dashboard.pbix** – Power BI file containing the dashboard with all visualizations.
 
-**📊 Coffee_Sales_Data.xlsx** – Raw dataset used for the project.
+**📊 Blinkit Grocery Data.xlsx** – Raw dataset used for the project.
 
-**📄 Coffee Sales Dashboard.pdf** – Contains the full dashboard and insights.
+**📄 Blinkit Dashboard.pdf** – Contains the full dashboard, business requirements and actionable insights.
 
-**📝 Coffee Sales Analysis.sql** – MySQL Workbench script used for data cleaning and analysis.
-
-**🖼️ Background_Image.png** – Custom background used in the Power BI dashboard.
-
-**☕ Coffee_Cup.png** – Coffee cup image used in the report design.
+**🖼️ Icons & BG Folder** –   Contains png icons and KPI bg image. 
 
 
 ### 📌 To explore the complete dashboard and SQL script, check the files inside this folder. 
