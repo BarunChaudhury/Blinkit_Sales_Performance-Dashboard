@@ -5,12 +5,12 @@
 The **Blinkit Sales Performance Dashboard** is built using **Power BI** to analyze key sales trends, product performance, and outlet-wise sales distribution. This interactive dashboard helps businesses understand the impact of **fat content, outlet types, and geographic factors** on overall sales performance.
 
 
-### 📈 View Interactive Dashboard Here:  
+## 📈 View Interactive Dashboard Here:  
 
 [🔗 Click to Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiODE5MDY2MWEtYjYyNS00M2UxLWI4M2UtYmFjZjUwMmVjNDIxIiwidCI6IjcxM2MyZWExLWVmOWItNDVkMC1iODk4LTM2ZTc5MDRlN2M3MyJ9)
 
 
-### 📊 Key Insights & Metrics
+## 📊 Key Insights & Metrics
 
 **1️⃣ Impact of Fat Content on Sales** → Compare total sales, average sales, number of items, and ratings based on fat content.
 
@@ -28,7 +28,7 @@ The **Blinkit Sales Performance Dashboard** is built using **Power BI** to analy
 
 
 
-### 🛠 Tools Used
+## 🛠 Tools Used
 
 **Power BI** → For creating interactive visualizations and dashboards.
 
