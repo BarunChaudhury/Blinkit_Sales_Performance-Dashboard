@@ -33,7 +33,7 @@ The **Blinkit Sales Performance Dashboard** is built using **Power BI** to analy
 **Power BI** → For creating interactive visualizations and dashboards.
 
 
-![Blinkit Sales Dashboard](https://raw.githubusercontent.com/your-username/repo-name/main/dashboard-image.png)
+![Blinkit Sales Dashboard](https://github.com/BarunChaudhury/Blinkit_Sales_Performance-Dashboard/blob/main/Dashboard%20image.png?raw=true)
 
 
 
